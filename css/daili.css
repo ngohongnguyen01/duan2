@@ -1,0 +1,45 @@
+.khoind1{
+    background-color: #329D27;
+    padding: 20px;
+    line-height: 20px;
+    width: 330px;
+    height: 415px;
+   
+}
+.khoind1>.fa-home{
+     font-size:36px;
+     color:white;
+     margin-right: 20px;
+}
+.khoind1>span{
+    color:white;
+    font-size:16px;
+    line-height:26px;
+}
+.fa-chess-rook{
+    font-size:24px;
+    color:white;
+    margin-right: 15px;
+}
+.khoichua{
+    overflow: hidden;
+  height: 255px;
+    line-height: 30px;
+   
+}
+.khoichua>ul>li{
+    list-style: none;
+}
+.khoichua>ul>li>i{
+    margin-right:10px;
+}
+.khoittcon{
+padding-left: 130px;
+transition: .5s;
+position:absolute;
+top: 110%;
+}
+.card:hover .khoittcon{
+    top: 79%;
+    position:absolute;
+}

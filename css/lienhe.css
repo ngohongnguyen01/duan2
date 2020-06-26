@@ -1,0 +1,71 @@
+.gopy{
+    width: 100%;
+    background-color: #31CE21;
+    text-align: center;
+   padding-bottom: 10px;
+}
+.ttll{
+    width: 500px;
+    background-color: #31CE21;
+   height: 430px;
+}
+.input{
+    width: 440px;
+    margin: 10px;
+    border-radius: 10px;
+    padding-left: 10px;
+    height: 40px;
+    border:none;
+    outline: none;
+}
+.t20{
+    color: #ffffff;
+    text-align: center;
+    background-color: #329D27;
+    font-size: 20px;
+}
+.ttll1{
+    width: 200px;
+    float: left;    margin-bottom: 30px;
+}
+.ttll2{
+    width: 250px;
+    float: left;    margin-bottom: 30px;
+}
+.tnd{
+    border-radius: 10px;
+    outline: none;
+}
+.gopy>button{
+    width: 100px;
+    height: 35px;
+    border-radius: 20px;
+    border:none;
+    color: #ffffff;
+   
+}
+.gopy>button:focus{
+    outline: none;
+}
+
+.ttll1>.ul1>li{
+    list-style: none;
+    margin-bottom:30px;
+    color: white;
+}
+.ttll1>.ul1>li>i{
+    margin-right:15px;
+    font-size: 20px;
+}
+.ttll2>ul>li{
+    margin-bottom: 7px;
+    color: #ffffff;
+    list-style: none;
+}
+.time{
+    margin-top: 28px;
+}
+.ttll2>ul>li>i{
+    margin-right:5px;
+    font-size:18px;
+}

@@ -1,0 +1,63 @@
+.hang1{
+    background-color: #C95151;
+    padding: 20px 0px;
+    margin-bottom: 10px;
+}
+.noidung{
+    margin-bottom: 15px;
+    color: #71EE66;
+    font-size: 16px;
+    line-height: 26px;
+}
+.noidung2{
+    color: #71EE66;
+    font-size: 16px;
+    line-height: 26px;
+}
+.noidung3{
+    font-size: 16px;
+    line-height: 26px;
+}
+.noidung4{
+    font-size: 16px;
+    line-height: 26px;
+}
+.noidung5>p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #71EE66;
+}
+h3{
+    color: #E81B4C;
+}
+.hang2{
+    background-color: #C95151;
+padding:20px 0px;
+color: #71EE66;
+margin-bottom: 10px;
+}
+.hang3{
+    background-color: #C95151;
+    padding:20px 0px;
+    color: #71EE66;
+    margin-bottom: 10px;
+}
+.hang4{
+    background-color: #C95151;
+    padding:20px 0px;
+    color: #71EE66;
+    margin-bottom: 10px;
+}
+span{
+    line-height:33px;
+}
+.phan4{
+    padding-bottom: 5px;
+}
+.video{
+    width: 620px;
+    margin-left: 240px;
+}
+.card-title{
+    color: #71EE66; 
+}

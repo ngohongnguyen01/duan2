@@ -1,0 +1,114 @@
+.td{
+    color:red;
+    font-weight:bold;
+    font-size:24px;
+   
+}
+#dungten{
+    margin: 0px;
+    padding: 0px;
+    font-size:26px;
+}
+i{
+  
+    margin-right: 5px;
+}
+.gh{
+    border:1px solid gray;
+    width: 100%;
+    padding-left:15px;
+    padding-top: 0px;
+    
+}
+.chukm{
+    color:white;
+    background: #34a105;
+    padding: 0px;
+    text-align: center;
+}
+li{
+    color:#34a105;
+}
+li>a{
+  color: #000;
+    display:block;
+    margin-top: 10px;
+}
+.box1{
+    border: 1px dotted gray;
+}
+.hopmua{
+    margin-top:30px;
+}
+.noinhan{
+    margin-top: 15px;
+}
+.radio{
+    margin-right: 5px;
+    margin-left: 20px;
+}
+.nutmua{
+    border:none;
+    background-color:red;
+    color:white;
+    font-size:20px;
+    width: 100%;
+    padding: 5px 0px;
+}
+.khoicon{
+    display:flex;
+    flex-wrap: wrap;
+}
+.khoianh2{
+    margin:10px;
+    
+}
+.khoianh1{
+    margin:10px;
+}
+.khoianh3{
+    margin:10px;
+}
+#ttien{
+    color:red;
+    font-size:20px;
+}
+#vanchuyen{
+    width: 50%;
+    position:absolute;
+    top: 437px;
+    margin-bottom: 10px;
+    left: 150px;
+}
+.btn{
+    width: 200px;
+    height: 40px;
+    padding-top: 7px;
+    position: absolute;
+    top: 490px;
+    left: 14px;
+    border: 1px solid gray;
+    text-align: center;
+    border:none;background-color: red;
+    color:#fff;
+    display: block;
+    margin-top: 25px;
+}
+.mua{
+    position: absolute;
+    top: 515px;
+    left: 224px;
+    width: 140px;
+    height: 40px;
+    border:none;background-color: red;
+    color:#fff;
+}
+#number{
+    margin-top: 10px;
+    width: 300px;
+}
+.vc{
+    width: 120px;
+    left: 15px;
+
+}

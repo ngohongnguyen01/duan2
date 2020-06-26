@@ -1,0 +1,236 @@
+.phan1{
+    background-color: #0D8800;
+  
+}
+.hoptk{
+    width: 230px;
+    background-color:#FFFFFF;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+body{
+
+    font-size: 16px;
+}
+.search{
+    background-color: #ffffff;
+    outline: none;
+    border : none;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.hoptk>button{
+    border: none;
+    outline: none;
+    background-color: white;
+    border-radius :5px;
+}
+.hoptk>button:focus{
+    outline: none;
+}
+.khoiicon{
+    margin-top: 22px;
+}
+.khoiicon>i{
+    margin:0px 15px;
+  color:#FFFFFF;
+}
+.khoiicon>span{
+    color:#FFFFFF;
+}
+.khoiicon>span>a{
+    color:#FFFFFF;
+}
+.icon1{
+    margin-right: 30px;
+    color:#FFFFFF;
+}
+.icon2{
+    margin-right: 30px;
+    color:#FFFFFF;
+}
+.icon3{
+    margin-right: 30px;
+    color:#FFFFFF;
+}
+.icon1>span:hover{
+    color: #ED0000;
+}
+.icon2>span:hover{
+    color: #ED0000;
+}
+.icon3>span:hover{
+    color: #ED0000;
+}
+.icon1>.fas{
+    margin-right:10px;
+}
+.icon2>.fas{
+    margin-right:10px;
+}
+.icon3>.fas{
+    margin-right:10px;
+}
+.phan2{
+    margin:5px 0px;
+}
+.phan3{
+    background-color: #0D8800;
+    padding:10px 0px;
+    }
+.nav-item{
+    margin-left: 15px;
+}
+.nav-item>.nav-link{
+    color: #ffffff;
+}
+.nav-item>.nav-link:hover{
+    color: #ED0000;
+    background-color:#98F498;
+    border-radius: 5px;
+}
+.phan4{
+    margin-top: 3px;
+    
+    background-color: #f4f4f4;
+
+}
+.thannd1{
+   
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+.nd1{
+    background-color: #329D27;
+    padding:5px 0px;
+    margin:0px auto;
+    
+}
+h2{
+    padding: 14px 0px;
+    color: #A30008;
+}
+.img{
+    margin:0px 33px;
+}
+.khoind1{
+    width: 477px;
+    margin:0px auto;
+}
+.tieude{
+    width: 400px;
+   line-height: 30px;
+    margin: 5px auto;
+    font-size:20px;
+}
+.ndcon{
+    width: 400px;
+    color: #FFFFFF;
+    margin: 5px auto;
+    font-style: italic;
+    font-size: 16px;
+    line-height:26px;
+}
+.anh3{
+    border-radius: 150px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.tron1{
+    width: 250px;
+    border-radius: 300px;
+    background-color: #FF4040;
+    height: 250px;
+   
+}
+.tron1:hover {
+    background-color:#0E6D40;
+}
+.phan5{
+    margin-top: 5px;
+    background-color:#39E639;
+    padding-top: 25px;
+}
+.div23{
+    margin-top: 5px;
+}
+.tieude>a:hover{
+    color:#FE6767;
+    text-decoration: none;
+}
+.tieude>a{
+    color:#FFFFFF;
+}
+
+.divchu24{
+    color:#FFFFFF;
+    font-size: 16px;
+    line-height:26px;
+    margin-top: 15px;
+}
+.ds>li{
+    margin-bottom:10px;
+    border-bottom: 1px solid white;
+    list-style: none;
+}
+.ds>li>a{
+    display:block;
+    color:#FFFFFF;
+}
+.ds>li>a:hover{
+    color:#FE6767;
+    text-decoration: none;
+}
+.chuicon>a>i{
+    color:#FFFFFF;
+    margin-right:55px;
+    font-size:30px;
+}
+.chuicon>a>i:hover{
+    color:#FE6767;
+}
+.hr{
+    background-color: #ffffff;
+}
+.chucc{
+    color:#FFFF;
+}
+.hang4{
+    padding-bottom: 31px;
+    margin-top: 30px;
+}
+.cla{
+    padding-left: 20px;
+}
+
+.hh{
+    font-size:20px;
+    color:#FFFFFF;
+    margin-top: 20px;
+    border-bottom: 2px solid white;
+}
+.ds{
+    margin-left: -38px;
+    margin-top: 15px;
+}
+.anhcc{
+    margin-top:-30px;
+}
+p{
+    padding-top: 10px;
+    
+}
+.spu{
+    padding-top:60px;
+}
+.doi{
+    font-size:26px;
+    color: #000;
+    text-align: center;
+}
+.noidung{
+    margin:30px 0px;
+}
+.card-title>a{
+    color:#000;
+}

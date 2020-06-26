@@ -1,0 +1,58 @@
+.g1{
+    font-weight:bold;color:red;
+}
+.g2{
+    margin-left:7px;font-size:13px;
+}
+.star{
+    color:#FF9727;
+    font-size: 20px;
+}
+.xt{
+  padding-top: 20px;
+    margin-top: 35px;
+    margin-left: 135px;
+    font-size: 15px;
+}
+.btn-primary {
+ 
+    margin-left: 55px;
+}
+.dg{
+    font-size:10px;
+}
+.tk3{
+    position:absolute;
+    right: 5px;
+    background-color: #007bff;
+    color: #ffffff;
+   border:none;
+    outline: none;
+    height: 40px;
+    border-radius: 5px;
+    width: 90px;
+    top: 308px;
+}
+.tk2{
+    border:none;
+    outline: none; 
+    height: 40px;
+    width: 175px;
+}
+.hang2m{
+    margin-top: 20px;
+}
+.khoidoc>ul>li{
+    list-style: none;
+    margin-bottom: 3px;
+}
+.khoidoc>ul>li>a{
+    display: block;
+    height: 50px;
+   padding-top: 13px;
+   padding-left: 10px;
+
+}
+.chugia{
+    font-size:13px;
+}
